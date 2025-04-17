@@ -1,0 +1,6 @@
+langchain-core
+langchain_chroma
+langchain_groq
+langchain_huggingface
+python-dotenv
+typing
